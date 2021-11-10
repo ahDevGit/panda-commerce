@@ -9,6 +9,10 @@
 custom-padding {
   padding: 20px 40px;
 }
+.padding-tb {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 .price {
   color: #ff136f;
 }
@@ -44,4 +48,10 @@ custom-padding {
 }
 .categories img {
   width: 120px;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 20px;
 }
